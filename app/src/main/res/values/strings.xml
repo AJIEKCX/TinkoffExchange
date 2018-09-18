@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tinkoff Exchange</string>
+    <string name="currency_from">Конвертировать из</string>
+    <string name="currency_to">Конвертировать в</string>
+    <string name="calculate">Конвертировать</string>
+    <string name="repeat">Повторить</string>
+
+    <string name="field_empty">Заполните поле</string>
+    <string name="field_error">Некорректное значение</string>
+
+    <string name="http_error">Ошибка при загрузке данных</string>
+    <string name="timeout_error">Тайм-аут соединения</string>
+    <string name="connection_error">Проверьте соединение</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+</resources>
